@@ -10,8 +10,13 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.froehlich.panoramaviewer.PanoramaActivity">
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!" />
+    <com.google.vr.sdk.widgets.pano.VrPanoramaView
+        android:id="@+id/pano_view"
+        android:layout_width="match_parent"
+        android:scrollbars="none"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="0dip"
+        android:layout_marginRight="0dip"
+        android:layout_marginBottom="0dip"
+        android:layout_alignParentEnd="true" />
 </RelativeLayout>

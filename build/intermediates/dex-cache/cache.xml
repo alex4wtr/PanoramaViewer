@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_bac4041e89d054d1097ce26db5bb70a32f8f9a9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="860a0198f9e1d33aba6235944bda4154f8be21d4">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_55cc52eefc4a895085e51fe031d004cd1bf6ffd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.google.android.exoplayer\exoplayer\r1.5.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3d2ea9cdd5b272666e03c7977440b494b63db77c">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.exoplayer-exoplayer-r1.5.10_bac6e79c6008ba37bd7336fc8a5d8b4fac238e8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.google.vr\sdk-base\1.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d00981db16e297a76c95aba4372d200b1e2420d2">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.vr-sdk-base-1.10.0_d65ba465b33385d2fedff4e6498723f2b4675699\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_9751d7dcc115278e38ecb1a76e9878defb3586ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.google.vr\sdk-panowidget\1.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="599391252c9619b99dbc5cea5685da204a07f03c">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.vr-sdk-panowidget-1.10.0_ab13de2104327cd6da200ab6e1b0351a446316ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\.gradle\caches\modules-2\files-2.1\com.google.protobuf.nano\protobuf-javanano\3.1.0\5110f05deac8f15244897b3f70e9ce413468771d\protobuf-javanano-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5110f05deac8f15244897b3f70e9ce413468771d">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\protobuf-javanano-3.1.0_4a2d1d347c7378c185923aee57c1ca12a689388f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="63f43edaa5ce70fbb413fd9ee343086441afd008">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8bb1c49c427e23f54ee17fc8176b0e4de8c9ccfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.0_a6ef88481b233c2d8b2d6a97563f02ca5819602f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_597f2cff592250a74d75a51757e31215b73362b5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.google.vr\sdk-videowidget\1.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f393ba16cb12a4797191ad798f2e00e58f1e628a">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.vr-sdk-videowidget-1.10.0_3e8b9aba0583276dcc71be031aa2446f390d5044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_01b6d59afaf18d42cc6f22a78741bc53697d34ad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.google.vr\sdk-common\1.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5f4e44ef932f9ce4e19dde2e24375ebee06e686">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.vr-sdk-common-1.10.0_5a0cbaa0ebd4ba653b9115927dda0f9add6a63e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_c9bd28a84deac3d77d1bec3e1449311be30befea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_d6d942bb023c74376d4ad3f2f443c65abb1f4804\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_8c3c03ba6a80d50bec13b9322fece388385f0478\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.0_c4c04f6d8beee47cf92fb3cd120ba430d778e9bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.google.vr\sdk-audio\1.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f73e02badf8404a0c3bab95d94ec28ebe9467210">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.vr-sdk-audio-1.10.0_21cf3c49bccbfad4ba20d1981294bc2a64a1b881\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_f15db2099293fbd205067685074fa3bea382c672\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.google.vr\sdk-commonwidget\1.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d4d5c35a22b8e4563afeb030eb16f137717503d1">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.vr-sdk-commonwidget-1.10.0_d834dd21d9da91e9df89b1ee82bc8b20a3c840c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_2fb3c36c4d7b3911dab704d1a9e9da738c04b78a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.0_ff40cf7e8909873f372f4274cdff04bb1fd0d406\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\Froehlich\AndroidStudioProjects\PanoramaViewer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_01223521d78bb75ef064721da0eae65abf301f66\classes.dex" />
+    </item>
+
+</items>
